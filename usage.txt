@@ -1,0 +1,11 @@
+Usage tutorial:
+
+For use AngryScanner you will write following commands:
+
+python AngryScanner.py -host [IP or Web] -min [min port number] -max [max port number]
+
+And wait for scanning open & close ports on host entry.
+
+Thanks for using (AngryScanner) :)
+
+[This script can find open & close ports on (Host or WebLinks) to scan target [vulnerable] or not]
